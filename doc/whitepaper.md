@@ -198,7 +198,7 @@ Users can manage their package through the platform. Wooble provides a content d
 	- [ ] Angular
 	- [ ] ReactJS
 	- [ ] VueJS
-	- [ ] EmberJR
+	- [ ] EmberJS
 - [ ] Write a Wooble command line interface for most package manager/dependency manager
 	- [ ] Composer / Artisan
 	- [ ] NPM
