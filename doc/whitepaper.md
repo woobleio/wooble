@@ -1,6 +1,5 @@
 # Sharing and using modular user interface for websites
 
-## Introduction
 Web development is evolving at a fast pace. Yesterday websites had lots of HTML pages and was powered by monolithic infrastructures, today it is the age of website as application. Monolithic websites is still a thing but it is more and more common to see kind of modular websites with client side frameworks or libraries such as Angular or React.
 
 This tendency offers people who wants to build websites different choices. However, it requires to learn a new way of building websites and new patterns or even paradigms. On top of that it often constrains them to use optional extensions, plugins or libraries that must work well with the website stack.
