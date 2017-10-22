@@ -199,11 +199,11 @@ Users can manage their package through the platform. Wooble provides a content d
 	- [ ] ReactJS
 	- [ ] VueJS
 	- [ ] EmberJR
-- Write a Wooble command line interface for most package manager/dependency manager
+- [ ] Write a Wooble command line interface for most package manager/dependency manager
 	- [ ] Composer / Artisan
 	- [ ] NPM
 	- [ ] Rake
-- Write plugins of Wooble for most CMS
+- [ ] Write plugins of Wooble for most CMS
 	- [ ] Wordpress
 	- [ ] Jekyll
 	- [ ] TextPattern
