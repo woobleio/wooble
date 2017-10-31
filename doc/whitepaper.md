@@ -10,13 +10,13 @@ This paper is about a solution that aims to be simple. It follows the tendencies
 
 # Summary
 
-[Webcomponents](#webcomponents)
-[Creation](#creation)
-[Package and build](#package-and-build)
-[Usage](#usage)
-[Wooble Platform](#wooble-platform)
-[Roadmap](#roadmap)
-[Conclusion](#conclusion)
+- [Webcomponents](#webcomponents)
+- [Creation](#creation)
+- [Package and build](#package-and-build)
+- [Usage](#usage)
+- [Wooble Platform](#wooble-platform)
+- [Roadmap](#roadmap)
+- [Conclusion](#conclusion)
 
 
 ## Webcomponents
