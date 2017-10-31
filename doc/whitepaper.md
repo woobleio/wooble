@@ -10,7 +10,7 @@ This paper is about a solution that aims to be simple. It follows the tendencies
 
 # Summary
 
-[Webcomponents](https://github.com/woobleio/wooble/edit/master/doc/whitepaper.md#WebComponents)
+[Webcomponents](https://github.com/woobleio/wooble/blob/master/doc/whitepaper.md#webcomponents)
 
 ## Webcomponents
 
