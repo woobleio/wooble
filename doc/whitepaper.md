@@ -8,6 +8,10 @@ On the other side, there is another tendency that we commonly see in landing pag
 
 This paper is about a solution that aims to be simple. It follows the tendencies detailed above and it offers an alternative to enhance websites user interface (UI) without worrying about website stack compatibility.
 
+# Summary
+
+[Webcomponents](https://github.com/woobleio/wooble/edit/master/doc/whitepaper.md#WebComponents)
+
 ## Webcomponents
 
 Webcomponents [[1]](#wb) is a well-formed way to build websites with pieces of UI. This is an open source project being added by the W3C to the HTML and DOM specifications. The mission is to allow developers to build structured web applications with standard features that allow to make and use UI components (kind of widgets). Webcomponents [[1]](#wb) released 4 main features :
