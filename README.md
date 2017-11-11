@@ -4,6 +4,8 @@
 
 [What is Wooble in detail?](https://github.com/woobleio/wooble/blob/master/doc/whitepaper.md)
 
+[API documentation](https://github.com/woobleio/wooble/blob/master/doc/rest-api.md)
+
 [Contributing](https://github.com/woobleio/wooble/blob/master/CONTRIBUTING.md)
 
 Contact : jonathan@wooble.io
