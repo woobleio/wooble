@@ -1,8 +1,19 @@
-TODO : OAUTH authentication
+# Contribute
 
-All resources are prefixed with `/api`
+For any request please create an issue on this project. You can update the documentation if you see any mistake and submit a pull request.
 
-The API uses JWT for authentication. It requires the `Authorization` with a valid JWT token.
+# Not yet implemented
+
+- OAUTH Authentication
+- API key management
+
+# Authentication mecanism
+
+The API uses JWT for authentication. It requires the `Authorization` with a valid JWT token. A token has a short lifetime, about 10 minutes. The server refreshes the token when it expired and returns the new token through `Authorization` header.
+
+# PATCH mecanism
+
+The API uses PATCH method to call specific command through the field `operation`. All predefined operations are displayed in the documentation and are self-documented. In case it is ambigous, it is defined when the URI is described.
 
 # API version 1
 
